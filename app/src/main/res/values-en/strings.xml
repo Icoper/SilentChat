@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    // Other
+    <string name="app_name">Anonymous Chat</string>
+    <string name="as_title_ru">Welcome</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_main_temp">MainActivity_temp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="no_internet_info">
+        Network connection error.
+        Please check your internet connection.</string>
+
+
+    // SettingsActivity
+    <string name="title_activity_settings">Settings</string>
+    <string name="wallpaper_is_set">Wallpaper is change</string>
+    <string-array name="screen_array">
+        <item>Screen 1</item>
+        <item>Screen 2</item>
+        <item>Screen 3</item>
+    </string-array>
+    <string name="main_title">Settings</string>
+    <string name="chose_wallpaper_text">Chose app wallpaper</string>
+
+
+    //SingInActivity
+    <string name="accept_lic">I attempt this license</string>
+     <string name="sing_info">
+        This application is an anonymous chat.
+        All information that is visible to users of this application is yours
+        Google account data, such as: first name, last name, photo of your Google account.
+        Logging in to the application and registering in it is available exclusively through a Google account.
+        All personal information is secure and not subject to distribution.
+        The developer is not responsible for the questions and topics raised in this application.
+     </string>
+    <string name="singInDialog">Вход успешно выполнен.
+        Для окончания установки необходимо перезапустить приложение!</string>
+    <string name="not_accept_lic">Сначала приймите правила лиц. соглашения</string>
+
+
+    //ChatFragment
+    <string name="input_msg">Enter msg</string>
+    <string name="bot_hello_msg">Welcome!</string>
+    <string name="bot_name">Chat bot</string>
+
+
+    //RoomsFragment
+    <string name="users_count">Users : </string>
+    <string name="action_settings">Settings</string>
+    <string name="room_list_star_text_add">Add to favorite </string>
+    <string name="room_list_star_text_done">Is favorite </string>
+
+
+    // MainActivity
+    <string name="all_room_mode">All chat</string>
+    <string name="settings_mode">Settings</string>
+    <string name="favorite_room_mode">Favorite</string>
+    <string name="my_room_mode">My chats</string>
+    <string name="search_room">Search room </string>
+    <string name="about_mode">About</string>
+    <string name="group_other">Other</string>
+
+    // Toast and AlertDialog
+    <string name="enter_name_toast">Enter room name</string>
+    <string name="ok_btn_alert">Ok</string>
+    <string name="cancel_btn_aler">Cancel</string>
+    <string name="empty_toast">Empty</string>
+    <string name="add_toast">Added</string>
+    <string name="delete_toast">Deleted</string>
+    <string name="new_chat_alert">New chat</string>
+    <string name="error_alert">Error</string>
+    <string name="exit_alert">Exit</string>
+
+    // AboutFragment
+    <string name="app_version">Anonymous Chat for Android. Version 0.5.9 beta</string>
+    <string name="contact_dev">Contact as : gotoyougoal@gmail.com</string>
+
+</resources>

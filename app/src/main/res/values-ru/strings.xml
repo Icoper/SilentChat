@@ -1,0 +1,78 @@
+<resources>
+    // Other
+    <string name="app_name">Анонимный чат</string>
+    <string name="as_title_ru">Добро Пожаловать</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_main_temp">MainActivity_temp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="no_internet_info">
+        Ошибка подключения к сети.
+        Пожалуйста проверьте ваше подключение к интернету и повторите попытку.</string>
+
+
+    // SettingsActivity
+    <string name="title_activity_settings">Настройки</string>
+    <string name="wallpaper_is_set">Выбранные обои установлены</string>
+    <string-array name="screen_array">
+        <item>Screen 1</item>
+        <item>Screen 2</item>
+        <item>Screen 3</item>
+    </string-array>
+    <string name="main_title">Настройки</string>
+    <string name="chose_wallpaper_text">Выберите фоновое изображение</string>
+
+
+    //SingInActivity
+    <string name="accept_lic">Я принимаю эти условия</string>
+     <string name="sing_info">
+        Данное приложение представляет собой анонимный чат.
+        Вся информация которая видна пользователям данного приложения это ваши
+        данные аккаунта Google,такие как : имя, фамилия, фото аккаунта Google.
+        Вход в приложение и регистрация в нем доступна исключительно с помощью аккаунта Google.
+        Вся личная инофрмация надежна защищена и не поддается распространению.
+        Разработчик не несет ответственности за вопросы и темы, поднятые в данном приложении.</string>
+    <string name="singInDialog">Вход успешно выполнен.
+        Для окончания установки необходимо перезапустить приложение!</string>
+    <string name="not_accept_lic">Сначала приймите правила лиц. соглашения</string>
+
+
+    //ChatFragment
+    <string name="input_msg">Введите текст</string>
+    <string name="bot_hello_msg">Добро пожаловать!</string>
+    <string name="bot_name">Chat bot</string>
+
+
+    //RoomsFragment
+    <string name="users_count">Учасников : </string>
+    <string name="action_settings">Настройки</string>
+    <string name="room_list_star_text_add">добавить в избранное </string>
+    <string name="room_list_star_text_done">в избранном </string>
+
+
+    // MainActivity
+    <string name="all_room_mode">Все чаты</string>
+    <string name="settings_mode">Настройки</string>
+    <string name="favorite_room_mode">Избранные</string>
+    <string name="my_room_mode">Мои комнаты</string>
+    <string name="search_room">Поиск комнаты</string>
+    <string name="about_mode">О программе</string>
+    <string name="group_other">Прочее</string>
+
+    // Toast and AlertDialog
+    <string name="enter_name_toast">Введите имя комнаты</string>
+    <string name="ok_btn_alert">Ок</string>
+    <string name="cancel_btn_aler">Отмена</string>
+    <string name="empty_toast">Пусто</string>
+    <string name="add_toast">Добавлено</string>
+    <string name="delete_toast">Удалено</string>
+    <string name="new_chat_alert">Новый чат</string>
+    <string name="error_alert">Ошибка</string>
+    <string name="exit_alert">Выход</string>
+
+    // AboutFragment
+    <string name="app_version">Анонимный Чат для Android. Версия 0.5.9 beta</string>
+    <string name="contact_dev">Свяжитесь с нами : gotoyougoal@gmail.com</string>
+</resources>
